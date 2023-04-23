@@ -20,8 +20,9 @@ h2{
     width: 100%;
     font-size: 1.8rem;
     border: 0.1rem solid rgb(86, 165, 235, 0.25);
-    background-color: black;
+    background-color: white;
     border-radius: 15px;
+    color: black;
   }
   
   .choice-container:hover {
@@ -33,7 +34,7 @@ h2{
   
   .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #e67e22;
+    background-color: blueviolet;
     color: white;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -67,6 +68,8 @@ h2{
   
   .hud-main-text {
     text-align: center;
-    color: white;
+    color: black;
   }
-  
+  #question{
+    color: black;
+  }
